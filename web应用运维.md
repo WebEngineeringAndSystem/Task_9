@@ -8,7 +8,7 @@
 可以和高校的贴吧、论坛展开合作。例如，拿西电举例，可以和西电睿思论坛进行交换链接，用户资源方面的合作。<br/>
 <img src="https://github.com/WebEngineeringAndSystem/Task_9/blob/master/1.png"/>
 也可以和一些学校的公众号（例如西电小喇叭）进行合作，或者可以将网上订餐系统的相关消息发送到朋友圈等各种交友平台，以促进更多的同学使用该网上订餐系统。<br/>
-<img src="2.PNG"/>
+<img src="https://github.com/WebEngineeringAndSystem/Task_9/blob/master/2.png"/>
 二、内容维护<br/>
 1、适时更新内容<br/>
 根据季节的不同，网上订餐系统可能会为用户提供免费的饮品。那么，夏季应该提供冷饮（如可乐，啤酒）；而冬季则应该提供热饮（如咖啡，热可可）。这就应该根据季节的变换及时更新系统中的内容。以此给用户带来贴心的体验。<br/>
