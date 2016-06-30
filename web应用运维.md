@@ -6,7 +6,7 @@
 为了让更多的大学生知道网上订餐系统，可以采用如下方式：在学校餐厅的投放餐桌广告；在学生公寓的显眼位置张贴广告。<br/>
 2、网络广告<br/>
 可以和高校的贴吧、论坛展开合作。例如，拿西电举例，可以和西电睿思论坛进行交换链接，用户资源方面的合作。<br/>
-<img src="https://github.com/WebEngineeringAndSystem/Task_9/blob/master/1.png"/>
+<img src="https://github.com/WebEngineeringAndSystem/Task_9/blob/master/1.png"/><br/>
 也可以和一些学校的公众号（例如西电小喇叭）进行合作，或者可以将网上订餐系统的相关消息发送到朋友圈等各种交友平台，以促进更多的同学使用该网上订餐系统。<br/>
 <img src="https://github.com/WebEngineeringAndSystem/Task_9/blob/master/2.png"/>
 二、内容维护<br/>
@@ -14,7 +14,7 @@
 根据季节的不同，网上订餐系统可能会为用户提供免费的饮品。那么，夏季应该提供冷饮（如可乐，啤酒）；而冬季则应该提供热饮（如咖啡，热可可）。这就应该根据季节的变换及时更新系统中的内容。以此给用户带来贴心的体验。<br/>
 2、栏目撤换<br/>
 在网上订餐系统的运行过程中，节假日期间，避免不了会有一些打折优惠的活动。当这些优惠活动过期时，应该将相关的栏目撤换。<br/>
-<img src="3.PNG"/>
+<img src="https://github.com/WebEngineeringAndSystem/Task_9/blob/master/3.png"/><br/>
 还有，订餐系统可以推出一些时令菜，借此增加客户的新鲜感。当季节变换导致时令菜无法供货时，也应将相应栏目撤换。<br/>
 3、Web页面更换<br/>
 夏天天气炎热，web页面可以使用冷色调，增加客户的食欲，促进销量。<br/>
